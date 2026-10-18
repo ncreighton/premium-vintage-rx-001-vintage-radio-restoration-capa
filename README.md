@@ -1,0 +1,2 @@
+# premium-vintage-rx-001-vintage-radio-restoration-capa
+You're halfway through recapping a vintage radio and realize you've lost track of which capacitors you've replaced, their values, and which ones still need work. The Vintage Radio Restoration Capacitor Recap Log solves this—a purpose-built Notion template that turns restoration chaos into organized, documented progress.  This template replaces scat
